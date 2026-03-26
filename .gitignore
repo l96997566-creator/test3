@@ -1,5 +1,5 @@
 # *.text not internet...
-*.text
+#*.text
 
 # temp file
 *.tmp
