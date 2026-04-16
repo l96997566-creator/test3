@@ -1,0 +1,7 @@
+LICENSE
+README.md
+new.txt
+sanjeogwang.txt
+sw.txt
+t1.txt
+ttt.txt
