@@ -1,0 +1,22 @@
+total 66
+drwxr-xr-x 1 YUHAN 197121     0 Apr 30 12:48 ./
+drwxr-xr-x 1 YUHAN 197121     0 Apr 22 11:02 ../
+drwxr-xr-x 1 YUHAN 197121     0 Apr 30 12:46 .git/
+-rw-r--r-- 1 YUHAN 197121    96 Apr  2 14:18 .gitignore
+-rw-r--r-- 1 YUHAN 197121 12288 Mar 26 13:41 .t.txt.swn
+-rw-r--r-- 1 YUHAN 197121  4096 Mar 26 13:40 .t.txt.swo
+-rw-r--r-- 1 YUHAN 197121 12288 Mar 26 13:40 .t.txt.swp
+-rw-r--r-- 1 YUHAN 197121 12288 Mar 26 13:45 .test.txt.swp
+drwxr-xr-x 1 YUHAN 197121     0 Mar 26 14:05 0326/
+drwxr-xr-x 1 YUHAN 197121     0 Apr  2 14:46 0402/
+drwxr-xr-x 1 YUHAN 197121     0 Apr  2 15:45 2026_oop2/
+-rw-r--r-- 1 YUHAN 197121     0 Mar 26 15:18 abc.cpp
+-rw-r--r-- 1 YUHAN 197121   129 Mar 26 15:34 abc.text
+-rw-r--r-- 1 YUHAN 197121     0 Mar 26 15:35 bbb.text
+-rw-r--r-- 1 YUHAN 197121   479 Mar 26 15:15 second.txt
+-rw-r--r-- 1 YUHAN 197121   144 Mar 26 13:16 t.txt
+-rw-r--r-- 1 YUHAN 197121    72 Mar 26 14:13 t1.txt
+-rw-r--r-- 1 YUHAN 197121    48 Mar 26 14:27 t2.txt
+-rw-r--r-- 1 YUHAN 197121     0 Mar 26 13:25 test.txt
+drwxr-xr-x 1 YUHAN 197121     0 Apr  2 15:25 test3/
+-rw-r--r-- 1 YUHAN 197121     0 Apr 30 12:48 testing1.txt
