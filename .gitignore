@@ -1,0 +1,12 @@
+#directory ignore
+dir/
+test/view/
+
+# except files
+*.text
+tmp.*
+net*.o
+wide*.*
+*bio*.k
+*key_*.*
+
